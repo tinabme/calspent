@@ -1,0 +1,36 @@
+{
+  "name": "calspent",
+  "version": "1.0.0",
+  "description": "App used to calculate calories spent by activity",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinabme/calspend.git"
+  },
+  "keywords": [
+    "\"calculate",
+    "calories\"",
+    "\"calories",
+    "used\"",
+    "\"calories",
+    "spent\"",
+    "\"calorie",
+    "calc\"",
+    "\"calorie",
+    "calculator\"",
+    "\"calorie",
+    "expenditure\""
+  ],
+  "author": "Tina Barfield",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tinabme/calspend/issues"
+  },
+  "homepage": "https://github.com/tinabme/calspend#readme",
+  "dependencies": {
+    "androidjs": "^2.0.4"
+  }
+}
